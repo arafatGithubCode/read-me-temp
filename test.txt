@@ -1,7 +1,10 @@
 This is added from the local rep
 
 I will buy an iPhone
-I have completed my ssc
-I have done my hsc
-
-This is the practice of local brach feature1
+I have completed my ssc in 2019
+I have done my hsc in 2021
+In the process of branch learning
+Local Update branch
+24555746513514
+remotetext file updated
+the alignment issue was solved dynamically.
