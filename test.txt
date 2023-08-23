@@ -7,3 +7,4 @@ In the process of branch learning
 Local Update branch
 24555746513514
 remotetext file updated
+the alignment issue was solved dynamically.
